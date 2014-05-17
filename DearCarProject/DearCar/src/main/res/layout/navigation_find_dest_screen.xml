@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/default_bg">
+
+    <include
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            layout="@layout/map_layout"
+            android:layout_x="0dp"
+            android:layout_y="0dp"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:id="@+id/navigation_find_dest_layout"
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:background="@drawable/answer_bg">
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Search results"
+                android:id="@+id/title"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="3dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="13dp"
+                android:layout_alignParentTop="true"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                style="@style/header"/>
+
+        <AbsoluteLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.5"
+                >
+
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/nav_list_bg"
+                    android:focusable="false"
+                    android:alpha="1"
+                    android:scaleType="fitCenter"
+                    android:background="@drawable/search_bg_mic"/>
+
+            <ListView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/navigation_result_list"
+                    />
+
+        </AbsoluteLayout>
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="125dp"
+                >
+
+            <ImageButton
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/retry_button"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/retry"
+                    android:scaleType="fitCenter"/>
+
+            <ImageButton
+                    android:id="@+id/cancel_button"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/cancel"
+                    android:scaleType="fitCenter"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</AbsoluteLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Recent_Destination">
+        <item>Home</item>
+        <item>Alenby 101, Tel Aviv, Israel</item>
+        <item>Work</item>
+        <item>Technion</item>
+        <item>Friends House</item>
+        <item>Dizengof</item>
+    </array>
+    <array name="Favorites_Destination">
+        <item>Home</item>
+        <item>Alenby 101, Tel Aviv, Israel</item>
+        <item>Work</item>
+        <item>Technion</item>
+    </array>
+
+    <array name="Results_Destination">
+        <item>Alenby 101, Tel Aviv</item>
+        <item>Alenby, Tel Aviv</item>
+        <item>Dizengof Center, Tel-Aviv-Yafo</item>
+        <item>Amado Building, Technion</item>
+    </array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Recent_Calls">
+        <item>Mom</item>
+        <item>Ido</item>
+        <item>054-5687512</item>
+        <item>Daniel</item>
+        <item>Dad</item>
+        <item>Mom</item>
+        <item>Avi SAP</item>
+    </string-array>
+
+    <string-array name="Recent_Calls_numbers">
+        <item>03-5235687</item>
+        <item>050-6532124</item>
+        <item> </item>
+        <item>052-6358745</item>
+        <item>054-4635872</item>
+        <item>052-4623587</item>
+        <item>050-1112234</item>
+    </string-array>
+
+    <array name="Recent_Calls_pics">
+        <item>@drawable/contact1_small</item>
+        <item>@drawable/contact2_small</item>
+        <item>@drawable/contact3_small</item>
+        <item>@drawable/contact4_small</item>
+        <item>@drawable/contact5_small</item>
+        <item>@drawable/contact6_small</item>
+        <item>@drawable/contact7_small</item>
+    </array>
+</resources>

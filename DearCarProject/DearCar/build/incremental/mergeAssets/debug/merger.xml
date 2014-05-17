@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets" >
+            <file
+                name="artistfound.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\artistfound.mp3" />
+            <file
+                name="beep.wav"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\beep.wav" />
+            <file
+                name="bluetooth_off.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\bluetooth_off.mp3" />
+            <file
+                name="bluetooth_on.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\bluetooth_on.mp3" />
+            <file
+                name="contactfound.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\contactfound.mp3" />
+            <file
+                name="dadmessage.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\dadmessage.mp3" />
+            <file
+                name="danielmessage.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\danielmessage.mp3" />
+            <file
+                name="default.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\default.mp3" />
+            <file
+                name="fonts/rondalo.ttf"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\fonts\rondalo.ttf" />
+            <file
+                name="guns.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\guns.mp3" />
+            <file
+                name="idomessage.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\idomessage.mp3" />
+            <file
+                name="message_sent.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\message_sent.mp3" />
+            <file
+                name="mommessage.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\mommessage.mp3" />
+            <file
+                name="nav.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\nav.mp3" />
+            <file
+                name="playlistfound.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\playlistfound.mp3" />
+            <file
+                name="red.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\red.mp3" />
+            <file
+                name="silenced.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\silenced.mp3" />
+            <file
+                name="smash.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\smash.mp3" />
+            <file
+                name="start_message1.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\start_message1.mp3" />
+            <file
+                name="tryagain.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\tryagain.mp3" />
+            <file
+                name="unknown.mp3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\assets\unknown.mp3" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\debug\assets" />
+    </dataSet>
+
+</merger>

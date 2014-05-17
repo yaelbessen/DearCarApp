@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Unread_messages">
+        <item>Mom</item>
+        <item>Ido</item>
+        <item>054-5687512</item>
+        <item>Daniel</item>
+        <item>Dad</item>
+        <item>Mom</item>
+        <item>Co-Worker</item>
+    </string-array>
+
+    <integer-array name="Num_Of_Unread_messages">
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>5</item>
+        <item>23</item>
+        <item>3</item>
+        <item>2</item>
+    </integer-array>
+
+    <array name="Unread_messages_pics">
+        <item>@drawable/contact1_small</item>
+        <item>@drawable/contact2_small</item>
+        <item>@drawable/contact3_small</item>
+        <item>@drawable/contact4_small</item>
+        <item>@drawable/contact5_small</item>
+        <item>@drawable/contact6_small</item>
+        <item>@drawable/contact7_small</item>
+    </array>
+    <string-array name="Unread_messages_sound">
+        <item>mommessage.mp3</item>
+        <item>idomessage.mp3</item>
+        <item>unknown.mp3</item>
+        <item>danielmessage.mp3</item>
+        <item>dadmessage.mp3</item>
+        <item>mommessage.mp3</item>
+        <item>unknown.mp3</item>
+    </string-array>
+
+</resources>

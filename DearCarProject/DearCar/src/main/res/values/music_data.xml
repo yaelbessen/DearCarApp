@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Artists_name">
+        <item>Guns N Roses</item>
+        <item>Linkin Park</item>
+        <item>Pink Floyd</item>
+        <item>Red Hot Chilli Peppers</item>
+        <item>Smash Mouth</item>
+        <item>Three Days Grace</item>
+        <item>הדג נחש</item>
+    </string-array>
+
+    <array name="Artists_pics">
+        <item>@drawable/artist1</item>
+        <item>@drawable/artist2</item>
+        <item>@drawable/artist3</item>
+        <item>@drawable/artist4</item>
+        <item>@drawable/artist5</item>
+        <item>@drawable/artist6</item>
+        <item>@drawable/artist7</item>
+    </array>
+
+    <string-array name="Artists_songs">
+        <item>Dont cry;Paradise City;Sweet Child O Mine</item>
+        <item>In The End;Numb;Breaking The Habit</item>
+        <item>Time;Money;The Great Gig In The Sky</item>
+        <item>Dani California;Tell Me Baby;Aeroplane</item>
+        <item>All Star;Im a Believer;Pacific Coast Party</item>
+        <item>Over and Over;Pain;Never Too Late</item>
+        <item>לא פראיירים;שיר נחמה;בסלון של סלומון</item>
+    </string-array>
+
+    <string-array name="Playlist_name">
+        <item>All Songs</item>
+        <item>Most Played</item>
+        <item>Recently Added</item>
+        <item>My Rock</item>
+        <item>Party Mix</item>
+        <item>Gym</item>
+        <item>Top 100</item>
+        <item>ישראלי</item>
+    </string-array>
+
+    <string-array name="Playlist_songs">
+        <item> </item>
+        <item>In The End;Paradise City;Dani California;Pain;Tell Me Baby</item>
+        <item>Time;Money;The Great Gig In The Sky</item>
+        <item>In The End;Numb;Breaking The Habit;Over and Over;Pain</item>
+        <item>All Star;Im a Believer;Tell Me Baby;Aeroplane</item>
+        <item>Im a Believer;לא פראיירים</item>
+        <item>In The End;Paradise City;Sweet Child O Mine;Dani California;Tell Me Baby</item>
+        <item>לא פראיירים;שיר נחמה;בסלון של סלומון</item>
+    </string-array>
+
+</resources>

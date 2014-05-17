@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:id="@+id/answer_screen"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/default_bg"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+            android:id="@+id/answer_caller_pic"
+            android:layout_width="fill_parent"
+            android:layout_height="515dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="28dp"
+            android:background="@android:color/transparent"
+            android:scaleType="centerCrop"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="40dp"/>
+
+    <ImageView
+            android:id="@+id/answer_call_bg"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/call_bg"/>
+
+
+    <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            layout="@layout/answer_panel"/>
+
+    <RelativeLayout
+            android:id="@+id/answer_panel_overlay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true">
+
+        <ImageView
+                android:id="@+id/answer_panel_icons"
+                android:layout_width="289dp"
+                android:layout_height="300dp"
+                android:src="@drawable/answer_panel_calls"
+                android:layout_gravity="center_horizontal|bottom"
+                android:layout_alignParentLeft="false"
+                android:layout_centerHorizontal="true"/>
+
+        <Button
+                android:id="@+id/answer_button"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:background="@drawable/answer_button_off"
+                android:layout_gravity="center"
+                android:layout_marginLeft="134dp"
+                android:layout_marginTop="96dp"
+                android:gravity="center"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentTop="false"
+                android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+
+    <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/gridLayout"
+            >
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Ron Zaidman"
+                android:id="@+id/caller_id"
+                android:layout_row="0"
+                android:layout_marginTop="5dp"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@android:color/background_light"
+                android:textSize="40sp"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="052-5636121"
+                android:id="@+id/caller_number"
+                android:layout_row="1"
+                android:layout_column="0"
+                android:textColor="@android:color/background_light"
+                android:layout_gravity="center_horizontal"
+                android:textSize="35sp"
+                android:textIsSelectable="false"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/call_time"
+                android:layout_column="0"
+                android:layout_row="2"
+                android:layout_gravity="fill_horizontal|center_horizontal"
+                android:gravity="center_horizontal"
+                android:textSize="32sp"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:typeface="normal"
+                android:text="Incoming Call"/>
+    </GridLayout>
+
+    <GridLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:rowCount="3"
+            android:columnCount="1"
+            android:id="@+id/blabla">
+
+        <LinearLayout
+                android:layout_width="340dp"
+                android:layout_height="120dp"
+                android:background="@drawable/answered_03"
+                android:gravity="center_horizontal"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:id="@+id/input_switch">
+
+            <Button
+                    android:layout_width="170dp"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/switch_SPK"
+                    android:background="@android:color/transparent"/>
+
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/switch_bt"
+                    android:background="@android:color/transparent"/>
+        </LinearLayout>
+
+        <!--<Button
+                android:layout_width="340dp"
+                android:layout_height="80dp"
+                android:id="@+id/call_add_button"
+                android:background="@drawable/answered_06"
+                android:layout_row="1"
+                android:layout_column="0"
+                android:enabled="true"
+                android:text="Contacts"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical|left"
+                android:paddingLeft="15dp"/>-->
+
+        <Button
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:id="@+id/end_button"
+                android:background="@drawable/answered_09"
+                android:layout_margin="0dp"
+                android:layout_row="2"
+                android:layout_column="0"
+                android:clickable="true"
+                android:enabled="true"
+                android:gravity="center"
+                android:onClick="endCall()"/>
+    </GridLayout>
+
+
+</RelativeLayout>

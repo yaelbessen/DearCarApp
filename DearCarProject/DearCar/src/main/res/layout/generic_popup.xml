@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<AbsoluteLayout
+        android:id="@+id/popup_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="375dp"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/popup_bg"
+            android:scaleType="fitXY"/>
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingTop="8dp"
+            android:padding="12dp">
+
+        <include
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/popup_layout_search"
+                android:layout_x="0dp"
+                android:layout_y="0dp"/>
+
+        <include
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/popup_layout_result"
+                android:layout_x="0dp"
+                android:layout_y="0dp"/>
+    </RelativeLayout>
+
+</AbsoluteLayout>

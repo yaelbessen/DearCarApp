@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="albumart_gunsnroses"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\albumart_gunsnroses.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="albumart_hadagnahash"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\albumart_hadagnahash.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="albumart_linkinpark"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\albumart_linkinpark.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="albumart_pinkfloyd"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\albumart_pinkfloyd.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="albumart_redhotchillipeppers"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\albumart_redhotchillipeppers.jpe"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="albumart_smashmouth"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\albumart_smashmouth.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="albumart_threedaysgrace"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\albumart_threedaysgrace.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answered_03"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answered_03.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answered_04"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answered_04.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answered_06"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answered_06.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answered_08"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answered_08.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answered_09"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answered_09.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_button"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_button.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_button_off"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_button_off.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_button_on"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_button_on.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_bottom"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_bottom.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_calls"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_calls.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_cancel_message"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_cancel_message.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_left"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_left.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_messages"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_messages.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_messages_start"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_messages_start.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_right"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_right.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="answer_panel_top"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\answer_panel_top.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="app_background_dashboard"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\app_background_dashboard.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="artist1"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\artist1.gif"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="artist2"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\artist2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="artist3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\artist3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="artist4"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\artist4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="artist5"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\artist5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="artist6"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\artist6.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="artist7"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\artist7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="battery_bar"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\battery_bar.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bg_row"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\bg_row.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bg_row2"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\bg_row2.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="black_border"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\black_border.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="call_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\call_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="cancel"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\cancel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="cancel_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\cancel_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact1"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact1.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact1_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact1_small.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact2"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact2.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact2_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact2_small.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact3"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact3_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact3_small.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact4"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact4.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact4_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact4_small.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact5"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact5.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact5_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact5_small.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact6"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact6.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact6_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact6_small.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact7"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact7_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact7_small.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contacts_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contacts_bg.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact_name"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\contact_name.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="default_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\default_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="default_bg1"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\default_bg1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="exit"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\exit.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="filled_rounded_rectangle_light"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\filled_rounded_rectangle_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="filled_rounded_rectangle_light_v2"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\filled_rounded_rectangle_light_v2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="go_back"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\go_back.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="go_to_contacts"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\go_to_contacts.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="go_to_music"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\go_to_music.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="letterz_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\letterz_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_17"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_17.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_2_06"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_2_06.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_2_08"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_2_08.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_2_12"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_2_12.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_2_14"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_2_14.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_2_20"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_2_20.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_app1"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_app1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_app2"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_app2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_button"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_button.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_button_not_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_button_not_pressed.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_button_press"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_button_press.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_button_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_button_pressed.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_contact1"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_contact1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mesh_contact2"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mesh_contact2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="messages_01"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\messages_01.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="messages_03"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\messages_03.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mic"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mic.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mic_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mic_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mic_button_off"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mic_button_off.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mic_button_on"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\mic_button_on.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_artists"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_artists.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_artists_left"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_artists_left.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_artists_right"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_artists_right.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_back"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_back.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_back_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_back_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_default"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_default.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="music_play_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\music_play_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="new_message"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\new_message.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="new_message_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\new_message_bg.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="new_message_button"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\new_message_button.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="new_message_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\new_message_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ok_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\ok_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="pause"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\pause.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="phone_button"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\phone_button.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="phone_button_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\phone_button_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="play"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\play.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="playlist"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\playlist.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="play_small"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\play_small.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="popup_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\popup_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="popup_bg_simple"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\popup_bg_simple.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="prev_next"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\prev_next.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="prev_next_n"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\prev_next_n.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="prev_next_p"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\prev_next_p.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="recent_calls"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\recent_calls.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="recent_calls_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\recent_calls_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="repeat"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\repeat.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="repeat_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\repeat_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="repeat_shuffle_line"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\repeat_shuffle_line.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="replay"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\replay.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="reply_bg"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\reply_bg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="reply_icon"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\reply_icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="retry"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\retry.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="road_wallpaper"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\road_wallpaper.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="row_frame"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\row_frame.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="search"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\search.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="search_bg_mic"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\search_bg_mic.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="search_button"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\search_button.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="search_button_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\search_button_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="shuffle"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\shuffle.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="shuffle_pressed"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\shuffle_pressed.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="speaker"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\speaker.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="top_bottom"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\top_bottom.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="voice_search1"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\voice_search1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="voice_search2"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\voice_search2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="volume_circle"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\volume_circle.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="waze1"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-mdpi\waze1.PNG"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="answer_panel"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\answer_panel.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="call_logs"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\call_logs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contact_logs"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\contact_logs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contact_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\contact_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="generic_popup"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\generic_popup.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="incoming_call_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\incoming_call_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_scroller"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\main_scroller.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="map_layout"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\map_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mesh_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\mesh_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="message_logs"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\message_logs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="message_popup"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\message_popup.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="message_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\message_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="music_item_line"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\music_item_line.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="music_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\music_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="navigation_find_dest_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\navigation_find_dest_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="navigation_item"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\navigation_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="navigation_main_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\navigation_main_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="navigation_main_screen_logs"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\navigation_main_screen_logs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="new_message"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\new_message.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="phone_screen"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\phone_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="popup_layout_result"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\popup_layout_result.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="popup_layout_search"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\popup_layout_search.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="reading_message_popup"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\reading_message_popup.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="section"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\layout\section.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\calls_data.xml"
+                qualifiers="" >
+                <string-array name="Recent_Calls_numbers" >
+                    <item>
+03-5235687
+                    </item>
+                    <item>
+050-6532124
+                    </item>
+                    <item>
+                    </item>
+                    <item>
+052-6358745
+                    </item>
+                    <item>
+054-4635872
+                    </item>
+                    <item>
+052-4623587
+                    </item>
+                    <item>
+050-1112234
+                    </item>
+                </string-array>
+
+                <array name="Recent_Calls_pics" >
+                    <item>
+@drawable/contact1_small
+                    </item>
+                    <item>
+@drawable/contact2_small
+                    </item>
+                    <item>
+@drawable/contact3_small
+                    </item>
+                    <item>
+@drawable/contact4_small
+                    </item>
+                    <item>
+@drawable/contact5_small
+                    </item>
+                    <item>
+@drawable/contact6_small
+                    </item>
+                    <item>
+@drawable/contact7_small
+                    </item>
+                </array>
+
+                <string-array name="Recent_Calls" >
+                    <item>
+Mom
+                    </item>
+                    <item>
+Ido
+                    </item>
+                    <item>
+054-5687512
+                    </item>
+                    <item>
+Daniel
+                    </item>
+                    <item>
+Dad
+                    </item>
+                    <item>
+Mom
+                    </item>
+                    <item>
+Avi SAP
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\contacts_data.xml"
+                qualifiers="" >
+                <array name="Contact_pic_left" >
+                    <item>
+@drawable/contact1
+                    </item>
+                    <item>
+@drawable/contact2
+                    </item>
+                </array>
+
+                <string-array name="Contact_name_right" >
+                    <item>
+Dad
+                    </item>
+                    <item>
+Daniel
+                    </item>
+                </string-array>
+                <string-array name="Contact_name_left" >
+                    <item>
+Mom
+                    </item>
+                    <item>
+Ido
+                    </item>
+                </string-array>
+                <string-array name="Contact_number_right" >
+                    <item>
+054-4635872
+                    </item>
+                    <item>
+052-6358745
+                    </item>
+                </string-array>
+
+                <array name="Contact_pic_right" >
+                    <item>
+@drawable/contact5
+                    </item>
+                    <item>
+@drawable/contact4
+                    </item>
+                </array>
+
+                <string-array name="Contact_number_left" >
+                    <item>
+052-4623587
+                    </item>
+                    <item>
+050-6532124
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\message_data.xml"
+                qualifiers="" >
+                <string-array name="Unread_messages_sound" >
+                    <item>
+mommessage.mp3
+                    </item>
+                    <item>
+idomessage.mp3
+                    </item>
+                    <item>
+unknown.mp3
+                    </item>
+                    <item>
+danielmessage.mp3
+                    </item>
+                    <item>
+dadmessage.mp3
+                    </item>
+                    <item>
+mommessage.mp3
+                    </item>
+                    <item>
+unknown.mp3
+                    </item>
+                </string-array>
+
+                <array name="Unread_messages_pics" >
+                    <item>
+@drawable/contact1_small
+                    </item>
+                    <item>
+@drawable/contact2_small
+                    </item>
+                    <item>
+@drawable/contact3_small
+                    </item>
+                    <item>
+@drawable/contact4_small
+                    </item>
+                    <item>
+@drawable/contact5_small
+                    </item>
+                    <item>
+@drawable/contact6_small
+                    </item>
+                    <item>
+@drawable/contact7_small
+                    </item>
+                </array>
+
+                <integer-array name="Num_Of_Unread_messages" >
+                    <item>
+2
+                    </item>
+                    <item>
+3
+                    </item>
+                    <item>
+1
+                    </item>
+                    <item>
+5
+                    </item>
+                    <item>
+23
+                    </item>
+                    <item>
+3
+                    </item>
+                    <item>
+2
+                    </item>
+                </integer-array>
+
+                <string-array name="Unread_messages" >
+                    <item>
+Mom
+                    </item>
+                    <item>
+Ido
+                    </item>
+                    <item>
+054-5687512
+                    </item>
+                    <item>
+Daniel
+                    </item>
+                    <item>
+Dad
+                    </item>
+                    <item>
+Mom
+                    </item>
+                    <item>
+Co-Worker
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\music_data.xml"
+                qualifiers="" >
+                <string-array name="Artists_name" >
+                    <item>
+Guns N Roses
+                    </item>
+                    <item>
+Linkin Park
+                    </item>
+                    <item>
+Pink Floyd
+                    </item>
+                    <item>
+Red Hot Chilli Peppers
+                    </item>
+                    <item>
+Smash Mouth
+                    </item>
+                    <item>
+Three Days Grace
+                    </item>
+                    <item>
+הדג נחש
+                    </item>
+                </string-array>
+                <string-array name="Playlist_name" >
+                    <item>
+All Songs
+                    </item>
+                    <item>
+Most Played
+                    </item>
+                    <item>
+Recently Added
+                    </item>
+                    <item>
+My Rock
+                    </item>
+                    <item>
+Party Mix
+                    </item>
+                    <item>
+Gym
+                    </item>
+                    <item>
+Top 100
+                    </item>
+                    <item>
+ישראלי
+                    </item>
+                </string-array>
+                <string-array name="Artists_songs" >
+                    <item>
+Dont cry;Paradise City;Sweet Child O Mine
+                    </item>
+                    <item>
+In The End;Numb;Breaking The Habit
+                    </item>
+                    <item>
+Time;Money;The Great Gig In The Sky
+                    </item>
+                    <item>
+Dani California;Tell Me Baby;Aeroplane
+                    </item>
+                    <item>
+All Star;Im a Believer;Pacific Coast Party
+                    </item>
+                    <item>
+Over and Over;Pain;Never Too Late
+                    </item>
+                    <item>
+לא פראיירים;שיר נחמה;בסלון של סלומון
+                    </item>
+                </string-array>
+                <string-array name="Playlist_songs" >
+                    <item>
+                    </item>
+                    <item>
+In The End;Paradise City;Dani California;Pain;Tell Me Baby
+                    </item>
+                    <item>
+Time;Money;The Great Gig In The Sky
+                    </item>
+                    <item>
+In The End;Numb;Breaking The Habit;Over and Over;Pain
+                    </item>
+                    <item>
+All Star;Im a Believer;Tell Me Baby;Aeroplane
+                    </item>
+                    <item>
+Im a Believer;לא פראיירים
+                    </item>
+                    <item>
+In The End;Paradise City;Sweet Child O Mine;Dani California;Tell Me Baby
+                    </item>
+                    <item>
+לא פראיירים;שיר נחמה;בסלון של סלומון
+                    </item>
+                </string-array>
+
+                <array name="Artists_pics" >
+                    <item>
+@drawable/artist1
+                    </item>
+                    <item>
+@drawable/artist2
+                    </item>
+                    <item>
+@drawable/artist3
+                    </item>
+                    <item>
+@drawable/artist4
+                    </item>
+                    <item>
+@drawable/artist5
+                    </item>
+                    <item>
+@drawable/artist6
+                    </item>
+                    <item>
+@drawable/artist7
+                    </item>
+                </array>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\navigation_data.xml"
+                qualifiers="" >
+                <array name="Results_Destination" >
+                    <item>
+Alenby 101, Tel Aviv
+                    </item>
+                    <item>
+Alenby, Tel Aviv
+                    </item>
+                    <item>
+Dizengof Center, Tel-Aviv-Yafo
+                    </item>
+                    <item>
+Amado Building, Technion
+                    </item>
+                </array>
+                <array name="Favorites_Destination" >
+                    <item>
+Home
+                    </item>
+                    <item>
+Alenby 101, Tel Aviv, Israel
+                    </item>
+                    <item>
+Work
+                    </item>
+                    <item>
+Technion
+                    </item>
+                </array>
+                <array name="Recent_Destination" >
+                    <item>
+Home
+                    </item>
+                    <item>
+Alenby 101, Tel Aviv, Israel
+                    </item>
+                    <item>
+Work
+                    </item>
+                    <item>
+Technion
+                    </item>
+                    <item>
+Friends House
+                    </item>
+                    <item>
+Dizengof
+                    </item>
+                </array>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="Mesh" >Mesh
+                </string>
+                <string name="artists_header" >Artists
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >DearCar
+                </string>
+                <string name="playlists_header" >Playlists
+                </string>
+                <string name="newButton" ></string>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style name="header" >
+                    <item name="android:textAppearance">
+?android:attr/textAppearanceLarge
+                    </item>
+                    <item name="android:layout_marginLeft">
+3dp
+                    </item>
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                    <item name="android:textSize">
+30sp
+                    </item>
+                    <item name="android:shadowColor">
+#000000
+                    </item>
+                    <item name="android:shadowDx">
+-1
+                    </item>
+                    <item name="android:shadowDy">
+2
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light.NoTitleBar.Fullscreen" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="Button"
+                    parent="android:style/Theme.Dialog" >
+                    <item name="android:windowBackground">
+@drawable/mesh_button_pressed
+                    </item>
+                    <item name="android:windowIsFloating">
+true
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                    <item name="android:windowSoftInputMode">
+stateVisible
+                    </item>
+                    <item name="android:textSize">
+25dp
+                    </item>
+                </style>
+
+                <style name="Button.Mesh" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:width">
+140dp
+                    </item>
+                    <item name="android:height">
+140dp
+                    </item>
+                    <item name="android:layout_marginTop">
+14dp
+                    </item>
+                    <item name="android:layout_marginLeft">
+20dp
+                    </item>
+                    <item name="android:layout_below">
+@+id/section_label
+                    </item>
+                    <item name="android:layout_alignLeft">
+@+id/section_label
+                    </item>
+                    <item name="android:background">
+@drawable/mesh_button_pressed
+                    </item>
+                    <item name="android:textSize">
+25dp
+                    </item>
+                    <item name="android:textColor">
+@android:color/holo_blue_light
+                    </item>
+                </style>
+
+                <style name="clock" >
+                    <item name="android:layout_width">
+200dp
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:gravity">
+center_horizontal
+                    </item>
+                    <item name="android:textSize">
+45dp
+                    </item>
+                    <item name="android:typeface">
+normal
+                    </item>
+                    <item name="android:enabled">
+true
+                    </item>
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                    <item name="android:shadowColor">
+#000000
+                    </item>
+                    <item name="android:shadowDx">
+-1
+                    </item>
+                    <item name="android:shadowDy">
+2
+                    </item>
+                    <item name="android:shadowRadius">
+0.5
+                    </item>
+                    <item name="android:alpha">
+0.9
+                    </item>
+                    <item name="android:layout_alignTop">
+@+id/section_label
+                    </item>
+                    <item name="android:layout_centerHorizontal">
+true
+                    </item>
+                </style>
+
+                <style name="Button.blue" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:width">
+140dp
+                    </item>
+                    <item name="android:height">
+140dp
+                    </item>
+                    <item name="android:src">
+@drawable/mesh_button_pressed
+                    </item>
+                    <item name="android:scaleType">
+centerCrop
+                    </item>
+                    <item name="android:padding">
+0dp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.NoActionBar.Fullscreen" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.NoActionBar.Fullscreen" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Downloads\Dropbox\Technion\GUI 236605\Workspace\DearCarProject\DearCar\src\debug\res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Contact_pic_left">
+        <item>@drawable/contact1</item>
+        <item>@drawable/contact2</item>
+    </array>
+
+    <string-array name="Contact_name_left">
+        <item>Mom</item>
+        <item>Ido</item>
+    </string-array>
+
+    <string-array name="Contact_number_left">
+        <item>052-4623587</item>
+        <item>050-6532124</item>
+    </string-array>
+
+    <array name="Contact_pic_right">
+        <item>@drawable/contact5</item>
+        <item>@drawable/contact4</item>
+    </array>
+
+    <string-array name="Contact_name_right">
+        <item>Dad</item>
+        <item>Daniel</item>
+    </string-array>
+
+    <string-array name="Contact_number_right">
+        <item>054-4635872</item>
+        <item>052-6358745</item>
+    </string-array>
+</resources>

@@ -1,0 +1,79 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="Button" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/mesh_button_pressed</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowSoftInputMode">stateVisible</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+
+    <style name="Button.Mesh">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:width">140dp</item>
+        <item name="android:height">140dp</item>
+        <item name="android:layout_marginTop">14dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_below">@+id/section_label</item>
+        <item name="android:layout_alignLeft">@+id/section_label</item>
+        <item name="android:background">@drawable/mesh_button_pressed</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="Button.blue">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:width">140dp</item>
+        <item name="android:height">140dp</item>
+        <item name="android:src">@drawable/mesh_button_pressed</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:padding">0dp</item>
+    </style>
+
+    <style name="clock">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">45dp</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:enabled">true</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">-1</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">0.5</item>
+        <item name="android:alpha">0.9</item>
+        <item name="android:layout_alignTop">@+id/section_label</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="header">
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">-1</item>
+        <item name="android:shadowDy">2</item>
+    </style>
+
+</resources>

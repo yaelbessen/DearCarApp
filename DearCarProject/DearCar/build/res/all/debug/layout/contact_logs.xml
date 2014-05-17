@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:id="@+id/contact_logs"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+            android:id="@+id/contact_left"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+        <TextView
+                android:id="@+id/contactName_left"
+                android:layout_width="140dp"
+                android:layout_height="55dp"
+                android:text="Ron Zaidman"
+                android:textSize="23sp"
+                android:alpha="1"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentTop="false"
+                android:layout_below="@+id/imgIcon_left"
+                android:gravity="center"
+                android:background="@drawable/contact_name"
+                android:textColor="#FFFFFF"
+                android:layout_marginRight="5dp"/>
+        <ImageView
+                android:id="@+id/imgIcon_left"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="5dp"
+                android:scaleType="centerCrop"/>
+    </RelativeLayout>
+    <RelativeLayout
+            android:id="@+id/contact_right"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+        <ImageView
+                android:id="@+id/imgIcon_right"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_marginLeft="5dp"
+                android:scaleType="centerCrop"/>
+
+        <TextView
+                android:id="@+id/contactName_right"
+                android:layout_width="140dp"
+                android:layout_height="55dp"
+                android:text="Elad Solomon"
+                android:textSize="23sp"
+                android:background="@drawable/contact_name"
+                android:alpha="1"
+                android:layout_below="@+id/imgIcon_right"
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:layout_marginLeft="5dp"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@drawable/answer_bg">
+
+    <include
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            layout="@layout/map_layout"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            />
+
+    <LinearLayout
+            android:id="@+id/navigation_main"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            >
+
+        <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Navigation"
+                    android:id="@+id/title"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="13dp"
+                    android:textColor="@android:color/white"
+                    android:textSize="30sp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_toRightOf="@+id/imageView"/>
+
+            <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/imageView"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="0dp"
+                    android:src="@android:drawable/ic_dialog_map"/>
+        </RelativeLayout>
+
+        <ListView
+                android:id="@android:id/list"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/contacts_bg"/>
+
+        <ImageButton
+                android:layout_width="fill_parent"
+                android:layout_height="110dp"
+                android:id="@+id/new_dest"
+                android:src="@drawable/search"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

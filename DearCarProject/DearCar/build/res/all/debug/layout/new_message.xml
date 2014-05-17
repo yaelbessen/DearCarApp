@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/default_bg">
+    <LinearLayout
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:background="@drawable/answer_bg">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="0.1">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="To:"
+                    android:id="@+id/message_to"
+                    android:gravity="center_horizontal|bottom"
+                    android:textSize="40sp"
+                    android:textColor="@android:color/white"
+                    />
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/message_dest"
+                    android:text="Dad"
+                    android:textSize="40sp"
+                    android:background="@drawable/new_message_bg"
+                    android:paddingLeft="10dp"
+                    android:inputType="none"
+                    android:gravity="bottom"/>
+        </LinearLayout>
+
+        <AbsoluteLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:background="@drawable/new_message_bg"
+                android:layout_weight="2">
+
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/imageView"
+                    android:src="@drawable/mic_bg"
+                    android:focusable="false"
+                    android:alpha="0.8"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:ems="10"
+                    android:id="@+id/message_content"
+                    android:autoText="false"
+                    android:text="Start saying your message..."
+                    android:textColor="#b0b0b0"
+                    android:gravity="top"
+                    android:textSize="25sp"
+                    android:editable="false"
+                    android:inputType="none"
+                    android:padding="5dp"/>
+
+        </AbsoluteLayout>
+        <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            <include
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    layout="@layout/answer_panel"
+                    android:layout_centerInParent="true"/>
+
+            <ImageView
+                    android:id="@+id/answer_panel_icons"
+                    android:layout_width="289dp"
+                    android:layout_height="300dp"
+                    android:src="@drawable/answer_panel_cancel_message"
+                    android:layout_gravity="center_horizontal|bottom"
+                    android:layout_alignParentLeft="false"
+                    android:layout_centerInParent="true"/>
+
+            <ImageView
+                android:id="@+id/mic_volume_indicator"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:src="@drawable/volume_circle"
+                android:layout_alignParentLeft="false"
+                android:layout_marginLeft="0dp"
+                android:layout_alignParentTop="false"
+                android:layout_marginTop="0dp"
+                android:layout_centerInParent="true"/>
+
+            <Button
+                    android:id="@+id/answer_button"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/mic_button_off"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_alignParentLeft="false"
+                    android:layout_alignParentTop="false"
+                    android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+</AbsoluteLayout>

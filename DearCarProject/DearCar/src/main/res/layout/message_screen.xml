@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:id="@+id/widget35"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@drawable/answer_bg">
+    <ImageButton
+            android:id="@+id/New_Message"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            android:layout_alignRight="@+id/list"
+            android:layout_alignLeft="@+id/list"
+            android:layout_alignParentEnd="false"
+            android:background="@android:color/transparent"
+            android:src="@drawable/new_message_button"
+            android:scaleType="fitCenter"/>
+    <ListView
+            android:id="@android:id/list"
+            android:layout_width="261dp"
+            android:layout_height="298dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="5dp"
+            android:layout_above="@+id/New_Message"
+            android:layout_alignParentStart="false"
+            android:layout_below="@+id/header"/>
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/header">
+
+        <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Unread Messages "
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:textSize="28dp"
+                android:textColor="@android:color/white"
+                android:layout_toRightOf="@+id/imageView"/>
+
+        <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/imageView"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@android:drawable/sym_action_chat"/>
+    </RelativeLayout>
+
+</RelativeLayout>
